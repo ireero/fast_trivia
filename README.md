@@ -35,15 +35,6 @@ O aplicativo possui várias telas:
 
 - **ApiMock**: Simula uma API que busca perguntas de trivia.
 
-## Modelos
-
-- **QuizQuestion**: Modelo para representar perguntas de trivia.
-
-## Componentes Reutilizáveis
-
-- **RadioSelect**: Componente para seleção de respostas de múltipla escolha.
-- **QuestionsSummary**: Componente para resumir os dados de respostas do questionário.
-
 ## Requisitos
 
 Para executar o aplicativo, você precisa ter o Flutter e o Dart instalados em seu ambiente de desenvolvimento.
