@@ -20,7 +20,7 @@ class RadioSelect extends StatelessWidget {
         answerText,
         style: TextStyle(
           color:
-              isSelected ? Colors.amber : Colors.white, // Defina a cor do texto
+              isSelected ? Colors.amber : Colors.white,
         ),
       ),
       value: answerText,

@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     DatabaseHelper().initDatabase();
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Quiz App',
       theme: ThemeData.dark(),
       home: const MyAppWithMediaQuery(),

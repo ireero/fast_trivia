@@ -13,7 +13,7 @@ class ListAnswerScreen extends StatefulWidget {
 
 class _ListAnswerScreenState extends State<ListAnswerScreen> {
   List<Map<String, dynamic>> selectedQuizResponses =
-      []; // Lista para armazenar as respostas do quiz selecionado
+      []; 
 
   @override
   Widget build(BuildContext context) {
